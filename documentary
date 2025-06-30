@@ -1,0 +1,28 @@
+Project Title:Smart Sorting - Healthy vs Rotten Classifier 
+app.py 
+Main backend application script (likely Flask or FastAPI based). 
+healthy_vs_rotten.h5 
+Trained machine learning model file (Keras/TensorFlow format). 
+ipython.html 
+Exported notebook or visualization in HTML format. 
+Readme.txt 
+Contains project overview, setup instructions, and usage guidance. 
+Holds static assets such as images, uploaded files, CSS, JavaScript, etc. 
+Contains images, CSS, JavaScript files or other frontend resources. 
+Likely contains form-related static resources or HTML fragments. 
+Used for storing uploaded files during image classification or other operations. 
+Contains HTML templates rendered by the backend using a template engine like Jinja2. 
+blog-single.html 
+Detailed single blog page template. 
+blog.html 
+Main blog listing page template. 
+index.html 
+Home page of the web application. 
+portfolio-details.html 
+Template for detailed information about a project or classification result. 
+Summary 
+This project likely includes: 
+A machine learning model (healthy_vs_rotten.h5) to classify fruits/vegetables. 
+A Python backend (app.py) to handle uploads and inference. 
+Web interface built using HTML templates. 
+Frontend resources placed in static/.
